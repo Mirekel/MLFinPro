@@ -11,3 +11,6 @@ Step  by step: <br>
 6.install the venv by using pip install -r requirements.txt <br>
 7.To start the application type "streamlit run app.py" <br>
 8.Enjoy <br>
+
+(Untuk Pak Bakti)
+Untuk file model yang berisi file pkl dari model hybridnya kami upload ke github karena filenya besar dan tidak dapat kami upload ke Binusmaya
