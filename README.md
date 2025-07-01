@@ -11,3 +11,5 @@ Step  by step: <br>
 6.To start the application type "streamlit run app.py" <br>
 7.Enjoy <br>
 
+(Untuk Bapak Bakti)
+Modelnya kami simpan lewat github karena size filenya besar dan tidak bisa langsung kami upload ke Binusmaya
